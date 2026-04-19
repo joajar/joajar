@@ -26,10 +26,10 @@ For more details, see my <a href="https://pl.linkedin.com/in/joanna-jaroszewska"
 
 ## Software Developer
 
-I've been working a Java Developer for almost 3 years. I was using **Spring** and **SAP Commerce Cloud (Hybris)** frameworks. 
-I particularly liked using **Hibernate** and other ORMs, 
+I worked as a Java Developer for almost 3 years. I was using **Spring** and **SAP Commerce Cloud (Hybris)** frameworks. 
+I particularly liked working with data using **Hibernate** and other ORMs, 
 as well as various databases (**MS SQL, Oracle, PostgreSQL, MySQL**). 
-What regards frontend, I've been working with <b>Angular</b> and <b>React</b>, Thymeleaf, JSP, and other template engines (e.g. one was drived by <b>Clojure</b>).
+What regards frontend, I worked with <b>Angular</b> and <b>React</b>, Thymeleaf, JSP, and other template engines (e.g. one was driven by <b>Clojure</b>).
 
 For more details, see my <a href="https://pl.linkedin.com/in/joanna-jaroszewska">linkedin</a>.
 
